@@ -38,7 +38,7 @@ Ilyosbek Axmedjanov is a passionate and detail-oriented Frontend Developer with 
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="48" height="48"/>
   </a>
   <a href="mailto:Ilyosbek.theilyostv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://portfolio-axmedjanov.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://axmedjanov.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
 ---
