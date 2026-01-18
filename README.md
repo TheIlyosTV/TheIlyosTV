@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ilyosbek Axmedjanov  
 
-![Profile views](https://komarev.com/ghpvc/?username=TheIlyosTV&style=flat-square)
 
 ## 📌 About Me  
 
