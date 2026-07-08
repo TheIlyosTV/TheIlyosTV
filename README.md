@@ -30,7 +30,7 @@ Ilyosbek Axmedjanov is a passionate and detail-oriented Frontend Developer with 
 
 <p align="left">
   <a href="https://instagram.com/ilyosbek_axmedjanov"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://t.me/black_haacker">
+  <a href="https://t.me/ilyosbek_axmedjanov">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="48" height="48"/>
   </a>
   <a href="https://youtube.com/@ilyosbek_dev">
