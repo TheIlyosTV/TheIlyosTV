@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Ilyosbek Axmedjanov  
 
-
 ## 📌 About Me  
 
-Ilyosbek Axmedjanov is a passionate and detail-oriented Frontend Developer with a strong foundation in **HTML, CSS, JavaScript, TypeScript, ReactJS, and Next.js**, as demonstrated through diverse projects available on GitHub. With expertise in creating dynamic, user-friendly interfaces and implementing modern design principles using frameworks like **TailwindCSS**, Ilyosbek excels at crafting engaging user experiences. Currently focused on building **scalable web applications**, integrating responsive designs, and ensuring cross-browser compatibility. Dedicated to continuous learning and growth in web development, with hands-on experience in creating interactive UI components and working on **client-side and server-side rendering**.  
+I'm a passionate and detail-oriented **Full-Stack Developer** with a strong foundation in **HTML, CSS, JavaScript, TypeScript, ReactJS, and Next.js** on the frontend, and **Node.js, Python, and Ruby on Rails** on the backend — you can see it all in action across the projects here on my GitHub. I enjoy crafting dynamic, user-friendly interfaces with modern design principles and frameworks like **TailwindCSS**, and building robust server-side applications and RESTful APIs to deliver complete end-to-end web solutions. I have hands-on experience containerizing and deploying applications with **Docker**, working with both SQL and NoSQL databases, and implementing **client-side and server-side rendering**. These days, my focus is on building **scalable full-stack web applications** with responsive design and cross-browser compatibility — and I'm committed to continuous learning and constant growth as a developer.  
 
 ---
 
@@ -16,18 +15,17 @@ Ilyosbek Axmedjanov is a passionate and detail-oriented Frontend Developer with 
 
 ### ⚙️ Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,ruby,rails,mongodb,mysql,sqlite" />
 </p>
 
 ### 🛠️ DevOps & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,notion,vercel,netlify,vite,pixso" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,notion,vercel,netlify,vite,pixso" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me  
-
 <p align="left">
   <a href="https://instagram.com/ilyosbek_axmedjanov"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://t.me/ilyosbek_axmedjanov">
@@ -43,5 +41,4 @@ Ilyosbek Axmedjanov is a passionate and detail-oriented Frontend Developer with 
 ---
 
 ## 📊 Most Used Languages  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheIlyosTV&layout=compact&theme=radical)
