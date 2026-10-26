@@ -31,6 +31,6 @@ Building **[Cresta Systems](https://cresta.uz)** — a small studio that makes w
   <a href="https://t.me/ilyosbek_axmedjanov"><b>Telegram</b></a> ·
   <a href="https://instagram.com/ilyosbek_axmedjanov"><b>Instagram</b></a> ·
   <a href="https://youtube.com/@ilyosbek_dev"><b>YouTube</b></a> ·
-  <a href="https://ilyosbek-axmedjanov.vercel.app"><b>Portfolio</b></a> ·
+  <a href="https://ilyosdev.uz"><b>Portfolio</b></a> ·
   <a href="https://cresta.uz"><b>cresta.uz</b></a>
 </p>
